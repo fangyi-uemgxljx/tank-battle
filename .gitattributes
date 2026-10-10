@@ -1,0 +1,2 @@
+# 统一按 LF 存储与检出，避免 Windows 上 autocrlf 造成的换行符churn
+* text=auto eol=lf
